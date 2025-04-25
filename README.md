@@ -1,6 +1,5 @@
 ### ✅ `Chaticus/README.md`
 
-```markdown
 # 🗨️ Chaticus
 
 Chaticus is a simple chat app demo designed to teach Docker Compose, Node.js, PostgreSQL, and web development best practices.
